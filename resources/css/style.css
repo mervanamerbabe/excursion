@@ -15,3 +15,16 @@ h4 {
 div {
   text-align: center;
 }
+h1 {
+  text-align: center;
+  font-weight: 300;
+  font-size: 42px
+}
+p {
+  font-size: 41px
+  color: gray
+}
+h3 {
+  text-align: center;
+  color: gray
+}
